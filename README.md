@@ -1,3 +1,0 @@
-# System Test Working Group
-
-In construction...
