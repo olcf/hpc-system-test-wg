@@ -24,7 +24,7 @@ Location: Room 607, Colorado Convention Center, Denver CO, USA.
 - Nick Cardo (CSCS)
 - Tina DeClerk (NERSC)
 - Bilel Hadri (KAUST)
-- Veronica G. Melesse Vergara (ORNL)
+- Verónica G. Melesse Vergara (ORNL)
 - Celso Mendes (NCSA)
 
 ### Schedule
