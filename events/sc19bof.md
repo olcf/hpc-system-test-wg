@@ -14,8 +14,8 @@ practices with other HPC centers.
 
 ### When & Where
 
-Date: Thursday, November 21, 2019 from 12:15pm to 1:15pm.
-Location: Room 607, Colorado Convention Center, Denver CO, USA.
+- *Date:* Thursday, November 21, 2019 from 12:15pm to 1:15pm.
+- *Location:* Room 607, Colorado Convention Center, Denver CO, USA.
 
 ### Speakers
 
