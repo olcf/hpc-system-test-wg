@@ -24,7 +24,7 @@ practices with other HPC centers.
 Brett M. Bode is an Assistant Director at National Center for Supercomputing Applications (NCSA) and a co-Principal Investigator on the Blue Waters project. Prior to the current operational role with Blue Waters, Brett was the lead of the Advanced Digital Services division at NCSA and managed the system software development projects for the Blue Waters project. Blue Waters is the premier HPC system in the National Science Foundation portfolio providing leading edge computing and data capabilities to scientists around the United States. Prior to joining NCSA in 2008, Brett spent nearly ten years as a scientist with the Department of Energy's Ames Laboratory at Iowa State University researching ways to deliver better performance to scientific applications from HPC cluster systems. Brett holds a BS in chemistry and physics from Illinois State University and a PhD in physical chemistry from Iowa State University.
 
 #### Reuben Budiardja (ORNL)
-<img src="https://www.olcf.ornl.gov/wp-content/uploads/2019/10/reuben_budiardja_profile_picture_70.jpeg" width="180" align="right"> Reuben Budiardja is a computational scientist in the National Center for Computational Sciences at Oak Ridge National Laboratory. He earned his doctorate degree from the University of Tennessee in Knoxville, Tennessee in computational astrophysics. He has broad research interests ranging from the development of large-scale astrophysics simulation code to investigate the mechanism of core-collapse supernovae to developing system tools to understand application motifs, usage, and performance on supercomputers. Throughout his career, he has collaborated with application scientists from various disciplines helping them to achieve their scientific objectives by exploiting supercomputing capabilities.
+<img src="reuben_picture_70.jpeg" width="180" align="right"> Reuben Budiardja is a computational scientist in the National Center for Computational Sciences at Oak Ridge National Laboratory. He earned his doctorate degree from the University of Tennessee in Knoxville, Tennessee in computational astrophysics. He has broad research interests ranging from the development of large-scale astrophysics simulation code to investigate the mechanism of core-collapse supernovae to developing system tools to understand application motifs, usage, and performance on supercomputers. Throughout his career, he has collaborated with application scientists from various disciplines helping them to achieve their scientific objectives by exploiting supercomputing capabilities.
 
 #### Tina DeClerck (NERSC)
 <img src="images/Tina-Declerck.jpg" width="180" align="right">
@@ -35,7 +35,7 @@ Tina Declerck leads the NERSC System's Department that is composed of the Comput
 Bilel Hadri is a Computational Scientist at the Supercomputing Core Lab at KAUST since July 2013. He contributes in benchmarking and performance optimization, helps in systems procurements, upgrades, and provides regular training to users. He received his Masters in Applied Mathematics and his PhD in Computer Science from the University of Houston in 2008. He joined the National Institute for Computational Science at Oak Ridge National Laboratory as a computational scientist in December 2009 following a Postdoctoral Position in June 2008 at the University of Tennessee Innovative Computing Laboratory led by Dr. Jack Dongarra. His expertise areas include performance analysis, tuning and optimization, System Utilization Analysis, Monitoring and Library Tracking Usage, Porting and Optimizing Scientific Applications on Accelerator Architectures (NVIDIA GPUs, Intel Xeon Phi), Linear Algebra, Numerical Analysis and Multicore Algorithms.
 
 #### Verónica G. Melesse Vergara (ORNL)
-<img src="https://www.olcf.ornl.gov/wp-content/uploads/2019/10/ver%C3%B3nica_melesse%20vergara_profile_picture_56.jpeg" width="180" align="right">
+<img src="images/vergara_picture_56.jpeg" width="180" align="right">
 Verónica G. Melesse Vergara is originally from Quito, Ecuador. Verónica earned a B.A. in Mathematics/Physics at Reed College and a M.S. in Computational Science at Florida State University. Verónica has eight years of experience in the high performance computing field and is currently working as an HPC Engineer at the Oak Ridge Leadership Computing Facility. In addition to providing assistance to OLCF users, Verónica is part of the systems testing team, led acceptance for Summit, and leads acceptance testing for Frontier, ORNL's exascale supercomputer to be deployed in 2021. Her research interests include high performance computing, large-scale system testing, and performance evaluation and optimization of scientific applications. Verónica is a member of both IEEE and ACM and serves in the ACM SIGHPC Executive Committee.
 
 
@@ -45,4 +45,25 @@ Celso L. Mendes has been working with high-performance computing for more than t
 
 ### Schedule
 
-TBD.
+* Audience Live Survey:
+  * Are you aware of any acceptance or regression testing tools/frameworks? 
+  * Does your HPC center perform a formal acceptance test? 
+  * Does your HPC center perform regression testing? 
+  * What tests are performed?
+  * Is it an automated process? 
+  * How long does it last?
+
+* Lightning talks: 5 minutes each
+  * KAUST: Bilel Hadri
+  * NCSA: Brett Bode & Celso Medes
+  * NERSC: Tina Declerck
+  * OLCF: Verónica G. Melesse Vergara 
+  
+* Open Forum:
+  * CSCS: Vasileios Karakasis
+  * IU: Scott Michael
+  * Everyone welcome to present!
+  
+* Q & A
+
+* Wrap-up
