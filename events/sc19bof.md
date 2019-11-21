@@ -26,7 +26,7 @@ Brett M. Bode is an Assistant Director at National Center for Supercomputing App
 #### Reuben Budiardja (ORNL)
 <img src="images/reuben_picture_70.jpeg" width="180" align="right"> Reuben Budiardja is a computational scientist in the National Center for Computational Sciences at Oak Ridge National Laboratory. He earned his doctorate degree from the University of Tennessee in Knoxville, Tennessee in computational astrophysics. He has broad research interests ranging from the development of large-scale astrophysics simulation code to investigate the mechanism of core-collapse supernovae to developing system tools to understand application motifs, usage, and performance on supercomputers. Throughout his career, he has collaborated with application scientists from various disciplines helping them to achieve their scientific objectives by exploiting supercomputing capabilities.
 
-#### Tina DeClerck (NERSC)
+#### Tina Declerck (NERSC)
 <img src="images/Tina-Declerck.jpg" width="180" align="right">
 Tina Declerck leads the NERSC System's Department that is composed of the Computational Systems, Security and Networking, Operations Technology, and Building Infrastructure groups. Accomplishments include managing the configuration, installation, and acceptance of the NERSC-9 (Perlmutter) system--expected to arrive in early 2021, and project lead on NERSC-8 (Cori). Tina has experience on almost all of the systems installed at NERSC since 1996 as a system analyst since its move to Lawrence Berkeley National Lab from Livermore. Tina had a short hiatus from NERSC during which she focused on storage startups from 2001 – 2006. Prior to joining NERSC in 1997 she worked at The Liposome Company and was an officer in the USAF.
 
@@ -45,7 +45,7 @@ Celso L. Mendes has been working with high-performance computing for more than t
 
 ### Schedule
 
-* Audience Live Survey:
+* Audience Live Survey: https://b.socrative.com/login/student/ (Room: SC19HPC)
   * Are you aware of any acceptance or regression testing tools/frameworks? 
   * Does your HPC center perform a formal acceptance test? 
   * Does your HPC center perform regression testing? 
