@@ -45,7 +45,7 @@ Celso L. Mendes has been working with high-performance computing for more than t
 
 ### Schedule
 
-* Audience Live Survey: https://b.socrative.com/login/student/ (Room: SC19HPC)
+* Audience Live Survey: [https://tinyurl.com/system-test-bof](https://tinyurl.com/system-test-bof) (Room: SC19HPC)
   * Are you aware of any acceptance or regression testing tools/frameworks? 
   * Does your HPC center perform a formal acceptance test? 
   * Does your HPC center perform regression testing? 
