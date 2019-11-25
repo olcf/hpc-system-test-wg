@@ -54,16 +54,24 @@ Celso L. Mendes has been working with high-performance computing for more than t
   * How long does it last?
 
 * Lightning talks: 5 minutes each
-  * KAUST: Bilel Hadri
-  * NCSA: Brett Bode & Celso Medes
-  * NERSC: Tina Declerck
-  * OLCF: Verónica G. Melesse Vergara 
+  * KAUST: [Bilel Hadri](presentations/sc19bof_hadri.pdf)
+  * NCSA: [Brett Bode](presentations/sc19bof_bode.pdf) & Celso Medes
+  * NERSC: [Tina Declerck](presentations/sc19bof_declerck.pdf)
+  * OLCF: [Verónica G. Melesse Vergara](presentations/sc19bof_vergara.pdf)
   
 * Open Forum:
-  * CSCS: Vasileios Karakasis
-  * IU: Scott Michael
+  * IU: [Scott Michael](presentations/sc19bof_michael.pdf)
+  * CSCS discusses ReFrame: [Vasileios Karakasis](presentations/sc19bof_karakasis.pdf)
   * Everyone welcome to present!
   
 * Q & A
+  * Q1: It sounded like more than one site said that the vendors provided acceptance tests; is that correct? That was specified in the RFP or something?
+    * A1.1: In some cases, the vendor executes part of the acceptance test. At ORNL, the facility develops the test plan and conducts all tests after the hardware diagnostics have been successfully executed by the vendor.
+    * A1.2: At KAUST, we have specified in the RFP many metrics from our benchmarks & general tests of functionalities. OEM shared the scripts of performance & functionality & we adapted them for our regression tests.
+  * Q2: There was a site that was doing a one-command, no-flags, no-privs regression test that a helpdesk could easily run before reporting issues to the infrastructure team. Can't recall which site, and lost the info. Is anyone here doing something like that?
+    * A1: Bilel recalls this was a previous framework, perhaps a previous generation of ReFrame or before ReFrame was available.
 
 * Wrap-up
+  * Interested in collaborating and/or test sharing? [Add your name & contact info here](https://github.com/olcf/system-test-wg/issues/2) 
+  * Want to share information about tools you are using? [Post a comment here](https://github.com/olcf/system-test-wg/issues/1)
+  * Presentations for the SC19 BOF can be found [here](presentations)
