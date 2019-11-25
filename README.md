@@ -11,5 +11,7 @@ As a follow-up a BOF titled [HPC System Testing: Procedures, Acceptance, Regress
 If you have any questions or would like to contribute, please feel free to open an issue or send a PR.
 
 **Contact Information:** 
+
 Verónica G. Vergara Larrea [@verolero86](https://github.com/verolero86)
+
 Bilel Hadri [@hadrib](https://github.com/hadrib)
