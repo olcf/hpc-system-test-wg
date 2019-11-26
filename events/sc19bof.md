@@ -52,8 +52,7 @@ Celso L. Mendes has been working with high-performance computing for more than t
   * What tests are performed?
   * Is it an automated process? 
   * How long does it last?
-
-**Survey Results:** A summary of the results submitted during the BOF can be found [here](presentations/live_survey_results.pdf).
+  * **Survey Results:** A summary of the results submitted during the BOF can be found [here](presentations/live_survey_results.pdf).
 
 * Lightning talks: 5 minutes each
   * KAUST: [Bilel Hadri](presentations/sc19bof_hadri.pdf)
