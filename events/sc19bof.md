@@ -57,7 +57,7 @@ Celso L. Mendes has been working with high-performance computing for more than t
 
 * Lightning talks: 5 minutes each
   * KAUST: [Bilel Hadri](presentations/sc19bof_hadri.pdf)
-  * NCSA: [Brett Bode](presentations/sc19bof_bode.pdf) & Celso Medes
+  * NCSA: [Brett Bode](presentations/sc19bof_bode.pdf) & Celso Mendes
   * NERSC: [Tina Declerck](presentations/sc19bof_declerck.pdf)
   * OLCF: [Verónica G. Melesse Vergara](presentations/sc19bof_vergara.pdf)
   
