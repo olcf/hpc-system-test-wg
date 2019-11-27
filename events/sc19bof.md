@@ -73,6 +73,6 @@ Celso L. Mendes has been working with high-performance computing for more than t
     * A1: Bilel recalls this was a previous framework, perhaps a previous generation of ReFrame or before ReFrame was available.
 
 * Wrap-up
-  * Interested in collaborating and/or test sharing? [Add your name & contact info here](https://github.com/olcf/system-test-wg/issues/2) 
-  * Want to share information about tools you are using? [Post a comment here](https://github.com/olcf/system-test-wg/issues/1)
+  * Interested in collaborating and/or test sharing? [Add your name & contact info here](https://github.com/olcf/hpc-system-test-wg/issues/2) 
+  * Want to share information about tools you are using? [Post a comment here](https://github.com/olcf/hpc-system-test-wg/issues/1)
   * Presentations for the SC19 BOF can be found [here](presentations)
