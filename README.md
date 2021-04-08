@@ -1,4 +1,4 @@
-# Welcome to the System Test Working Group
+# Welcome to the HPC System Test Working Group
 
 This working group is a new effort started as a result of a Birds-of-a-Feather session at the Cray User Group 2019. The main goals for this working group are:
 1. Share acceptance and regression test procedures.
