@@ -27,10 +27,10 @@ In construction.
 * Audience survey: 3 mins
 * Lightning talks: 10 minutes each
   * CSC: George Markomanolis
-  * LLNL: Todd Gamblin
-  * Pending
+  * LANL: Jennifer Green
+  * LLNL: Todd Gamblin, Ben Casses 
 * User Facility Panel: 45 mins
-  * CSC, CSCS, KAUST, NERSC, LLNL, OLCF, and more,
+  * CSC, CSCS, KAUST, NERSC, LANL, LLNL, OLCF, and more.
 * Open Forum:
   * Everyone welcome to chime in!
 * Wrap up: 2 mins
