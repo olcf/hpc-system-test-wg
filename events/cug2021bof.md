@@ -16,7 +16,7 @@ This BOF invites attendees participation to form the HPC System Test working gro
 ### When & Where
 
 - *Date:* Thursday, May 6, 2021 from 9:00am to 11am (US Pacific Time).
-- *Location:* Virtual.
+- *Location: https://events.bizzabo.com/CUGConference21/agenda/session/541789
 
 ### Agenda
 
@@ -56,7 +56,7 @@ This BOF invites attendees participation to form the HPC System Test working gro
 <img src="images/" width="180" align="right"> George Markomanolis is a Lead HPC Scientist at CSC - IT For Science Ltd in Finland. George holds a Ph.D. from INRIA/ENS de Lyon on computer science with topic "Performance Evaluation and Prediction of Parallel Applications", a M.Sc. in Computational Science from National & Kapodistrian University of Athens, and a B.Sx. in Mathematics from University of Ioannina. Prior to CSC, George was a HPC engineer at the Oak Ridge Leadership Computing Facility at ORNL. George is also a member of the IO-500 Commitee.
 
 #### Shahzeb Siddiqui (LBNL)
-<img src="images/" width="180" align="right"> Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at Lawrence Berkeley National Laboratory/NERSC. Shahzeb spends 50% of his time on Consulting where he helps address any incoming issues reported by NERSC users and dedicates the rest of his time to the Exascale Computing Project (ECP)'s Software Deployment (SD) group where he is responsible for building Spack E4S CI pipeline for NERSC. Shahzeb is involved in several open-source projects including easybuild, spack, singularity, and creator of open-source project buildtest and lmodule. Shahzeb has experience with installing scientific software, cluster administration (configuration management and cluster manager tools), user support tickets, and scheduler configuration. Shahzeb holds a M.S. degree in Computer Science from KAUST and a B.S. in Computer Engineering from Penn State University.
+<img src="images/shahzebsiddiqui.jpeg" width="180" align="right"> Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at Lawrence Berkeley National Laboratory/NERSC. Shahzeb spends 50% of his time on Consulting where he helps address any incoming issues reported by NERSC users and dedicates the rest of his time to the Exascale Computing Project (ECP)'s Software Deployment (SD) group where he is responsible for building Spack E4S CI pipeline for NERSC. Shahzeb is involved in several open-source projects including easybuild, spack, singularity, and creator of open-source project buildtest and lmodule. Shahzeb has experience with installing scientific software, cluster administration (configuration management and cluster manager tools), user support tickets, and scheduler configuration. Shahzeb holds a M.S. degree in Computer Science from KAUST and a B.S. in Computer Engineering from Penn State University.
 
 ### Moderators
 
