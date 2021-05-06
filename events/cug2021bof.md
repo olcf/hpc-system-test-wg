@@ -11,12 +11,12 @@ The BOF will include lightning presentations from HPC centers that are using dif
 * What role should the vendors play in testing? 
 * How can we leverage testing efforts across centers to develop a maintainable collection of tests?
  
-This BOF invites attendees participation to form the HPC System Test working group. The group will collaborate to define a set of guidelines and methodologies that can be used to build and maintain a collection of HPC system tests. All products from the session will be publicly available at: https://olcf.github.io/hpc-system-test-wg/
+This BOF invites attendees participation to form the HPC System Test working group. The group will collaborate to define a set of guidelines and methodologies that can be used to build and maintain a collection of HPC system tests. All products from the session will be publicly available at: [https://olcf.github.io/hpc-system-test-wg/](https://olcf.github.io/hpc-system-test-wg/)
 
 ### When & Where
 
 - *Date:* Thursday, May 6, 2021 from 9:00am to 11am (US Pacific Time).
-- *Location:* https://events.bizzabo.com/CUGConference21/agenda/session/541789
+- *Location:* [CUG 2021 Event page](https://events.bizzabo.com/CUGConference21/agenda/session/541789)
 
 ### Agenda
 
