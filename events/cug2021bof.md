@@ -16,7 +16,7 @@ This BOF invites attendees participation to form the HPC System Test working gro
 ### When & Where
 
 - *Date:* Thursday, May 6, 2021 from 9:00am to 11am (US Pacific Time).
-- *Location: https://events.bizzabo.com/CUGConference21/agenda/session/541789
+- *Location:* https://events.bizzabo.com/CUGConference21/agenda/session/541789
 
 ### Agenda
 
