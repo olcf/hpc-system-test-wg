@@ -18,6 +18,22 @@ This BOF invites attendees participation to form the HPC System Test working gro
 - *Date:* Thursday, May 6, 2021 from 9:00am to 11am (US Pacific Time).
 - *Location:* Virtual.
 
+### Agenda
+
+* Audience live survey: 3 mins
+* Lightning talks: 10 minutes each
+  * CSC: George Markomanolis
+  * LANL: Jennifer Green
+  * LLNL: Todd Gamblin, Ben Casses
+  * University of Bristol: Joe Heaton 
+* User Facility Panel: 45 mins
+  * CSC, CSCS, KAUST, NERSC, LANL, LLNL, OLCF, University of Bristol.
+* Open Forum:
+  * Everyone welcome to chime in!
+* Wrap up: 2 mins
+  * Invitation to join HPC System Test Working Group
+  * Next steps
+
 ### Speakers & Panelists
 
 #### Reuben Budiardja (ORNL)
@@ -52,21 +68,5 @@ Bilel Hadri is a Computational Scientist at the Supercomputing Core Lab at KAUST
 <img src="images/vergara_picture_56.jpeg" width="180" align="right">
 Verónica G. Melesse Vergara (Vergara Larrea) is originally from Quito, Ecuador. Verónica earned a B.A. in Mathematics/Physics at Reed College and a M.S. in Computational Science at Florida State University. Verónica has over a decade of experience in the high performance computing field and is currently Group Leader of the User Assistance — Pre-production Systems Group at the Oak Ridge Leadership Computing Facility. In addition to providing assistance to OLCF users, Verónica is part of the systems testing team, led acceptance for Summit, and is leading acceptance for Frontier, ORNL’s exascale supercomputer. Her research interests include high performance computing, large-scale system testing, and performance evaluation and optimization of scientific applications. Verónica is a member of both IEEE and ACM and serves in the ACM SIGHPC Executive Committee and the SC Steering Committee.
 
-### Agenda
+## Q & A log
 
-* Audience live survey: 3 mins
-* Lightning talks: 10 minutes each
-  * CSC: George Markomanolis
-  * LANL: Jennifer Green
-  * LLNL: Todd Gamblin, Ben Casses
-  * University of Bristol: Joe Heaton 
-* User Facility Panel: 45 mins
-  * CSC, CSCS, KAUST, NERSC, LANL, LLNL, OLCF, University of Bristol.
-* Open Forum:
-  * Everyone welcome to chime in!
-* Wrap up: 2 mins
-  * Invitation to join HPC System Test Working Group
-  * Next steps
-  
-* Q & A log
-TBD
