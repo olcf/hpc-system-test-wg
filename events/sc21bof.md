@@ -18,7 +18,8 @@ The material and discussions in the session will be beneficial to both users, sy
 
 ### When & Where
 
-- *Date:* TBD by SC21.
+- *Date:* Tuesday, 16 November, 2021 from 5:15pm - 6:45pm CST
+- *Event:* https://sc21.supercomputing.org/presentation/?id=bof136&sess=sess381
 - *Location:* Virtual via SC21 HUBB (link TBA)
 
 ### Agenda 
@@ -26,8 +27,7 @@ The material and discussions in the session will be beneficial to both users, sy
 - Audience Survey
 - Lightning talks  on “Test Suites Content and Availability”
   - First half will be presented by the session leaders representing 4 different institutions
-  - At least 2 Lightning talks will be chosen from community submissions: 
-    - Submit by **Oct 13, 2021 AOE** at https://tinyurl.com/sc21-hpctest-talk 
+  - Invited Lightning Talks
 - Open Q&A with presenters
 - Working session to discuss development of a common template
 - Defining Next Steps
