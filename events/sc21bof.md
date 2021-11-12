@@ -54,7 +54,7 @@ Bilel Hadri is a Computational Scientist at the Supercomputing Core Lab at KAUST
 Francine Lapid is a Computer Scientist in the High Performance Computing Division in Los Alamos National Laboratory. She started working for the Programming and Runtime Environments team after graduating with a Bachelor of Science in Computer Engineering from Texas A&M University in 2019. Francine is also one of the contributors to Pavilion 2, a Python 3-based testing framework used to facilitate benchmarking HPC clusters. 
 
 #### Paul Ferrell (LANL)
-<img src="images/paul_ferrel.png" width="180" align="right">
+<img src="images/paul_ferrell.png" width="180" align="right">
 Paul Ferrell is a Computer Scientist at Los Alamos National Laboratory with over 15 years of experience in software development, cyber security, and HPC platforms. He is the lead developer on Pavilion 2.0, a flexible Python and YAML based framework for testing HPC clusters. He has a MS in Computer Science from New Mexico Tech.
 
 #### Vasileios Karakasis (CSCS)
