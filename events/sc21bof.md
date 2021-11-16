@@ -30,7 +30,7 @@ The material and discussions in the session will be beneficial to both users, sy
 - Lightning talks  on “Test Suites Content and Availability”: 50 mins
   - CSCS site update: Vasileios Karakasis
   - KAUST site update: Bilel Hadri
-  - EESSI: Caspar van Leeuwen
+  - [EESSI](https://eessi.github.io/docs/): Caspar van Leeuwen
   - LANL: Francine Lapid & Paul Ferrell
   - ORNL: Verónica G. Melesse Vergara
 - Open Q&A with presenters: 10 mins
