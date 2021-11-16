@@ -11,6 +11,8 @@ This working group is a new effort started as a result of a Birds-of-a-Feather s
 
 [CUG 2021 BOF -- HPC System Testing: Building a cross-center collaboration for system testing](https://olcf.github.io/hpc-system-test-wg/events/cug2021bof)
 
+[SC21 BOF -- HPC System Test: Towards Improving Availability and Portability of HPC Test Suites](https://olcf.github.io/hpc-system-test-wg/events/sc21bof)
+
 If you have any questions or would like to contribute, please feel free to open an issue or send a PR.
 
 **Contact Information:** 
