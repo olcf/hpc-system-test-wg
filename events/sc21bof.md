@@ -26,13 +26,17 @@ The material and discussions in the session will be beneficial to both users, sy
 
 ### Agenda 
 
-- Audience Survey on Slido
-- Lightning talks  on “Test Suites Content and Availability”
-  - First half will be presented by the session leaders representing 4 different institutions
-  - Invited Lightning Talks
-- Open Q&A with presenters
-- Working session to discuss development of a common template
-- Defining Next Steps
+- Audience Survey on Slido: 5 mins
+- Lightning talks  on “Test Suites Content and Availability”: 50 mins
+  - CSCS site update: Vasileios Karakasis
+  - KAUST site update: Bilel Hadri
+  - EESI: Caspar van Leeuwen
+  - LANL: Francine Lapid & Paul Ferrell
+  - ORNL: Verónica G. Melesse Vergara
+- Open Q&A with presenters: 10 mins
+- Working session to discuss development of a common template: 20 mins
+  - Scratchpad: https://tinyurl.com/hpcSTWGatSC21 
+- Defining Next Steps: 5 mins
 
 ### Session leaders
 - Bilel Hadri (King Abdullah University of Science and Technology)
@@ -44,10 +48,12 @@ The material and discussions in the session will be beneficial to both users, sy
 ### Speakers
 
 #### Bilel Hadri (KAUST)
-<img src="https://www.hpc.kaust.edu.sa/sites/default/files/files/public/GPU_Workshop/2017/bilel3.png" width="180" align="right">
+<img src="https://www.hpc.kaust.edu.sa/sites/default/files/files/public/GPU_Workshop/2017/bilel3.png" width="180" align="left">
 Bilel Hadri is a Computational Scientist at the Supercomputing Core Lab at KAUST since July 2013. He contributes in benchmarking and performance optimization, helps in systems procurements, upgrades, and provides regular training to users. He received his Masters in Applied Mathematics and his PhD in Computer Science from the University of Houston in 2008. He joined the National Institute for Computational Science at Oak Ridge National Laboratory as a computational scientist in December 2009 following a Postdoctoral Position in June 2008 at the University of Tennessee Innovative Computing Laboratory led by Dr. Jack Dongarra. His expertise areas include performance analysis, tuning and optimization, System Utilization Analysis, Monitoring and Library Tracking Usage, Porting and Optimizing Scientific Applications on Accelerator Architectures (NVIDIA GPUs, Intel Xeon Phi), Linear Algebra, Numerical Analysis and Multicore Algorithms.
 
 #### Caspar van Leeuwen (SURF)
+<img src="images/caspar_van_leeuwen.jpg" width="180" align="right">
+Caspar van Leeuwen is an HPC advisor at SURF, where he has supported users of the Dutch national HPC infrastructure for almost five years. With a strong interest in providing optimized scientific software installations for end-users, he played a key role in automating software installations as well as developing and deploying more structural software testing on the Dutch national HPC infrastructure. Furthermore, he has been involved in the EESSI software project, which aims to offer a centralized scientific software stack that can be mounted on a wide variety of systems. His main focus in this project is developing a test suite for the HPC applications that are distributed as part of this software stack.
 
 #### Francine Lapid (LANL)
 <img src="images/lapid-picture.jpeg" width="180" align="left">
