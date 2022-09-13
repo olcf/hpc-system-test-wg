@@ -17,7 +17,7 @@ practices with other HPC centers.
 
 ### When & Where
 
-- *Date:* Tuesday, November 15th, 2022 from 5:15pm-6:45pm.
+- *Date:* Wednesday, November 16th, 2022 from	5:15pm-6:45pm.
 - *Location:* Room TBD, Kay Bailey Hutchison Convention Center, Dallas, TX, USA.
 
 ### Speakers
