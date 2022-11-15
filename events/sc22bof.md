@@ -23,8 +23,9 @@ practices with other HPC centers.
 ### Speakers
 
 - Jens Domke, RIKEN
-- Maria del Carmen Ruiz Varela, AMD
 - Danny Bolding, AMD
+- Matt Davis, ORNL
+- Maria del Carmen Ruiz Varela, AMD
 - Zach Tschirhart, HPE
 
 ### Schedule
@@ -39,6 +40,7 @@ practices with other HPC centers.
   - **Moderators**: Bilel Hadri and Verónica G. Melesse Vergara
   - **Panelists**:
   - Danny Bolding, AMD
+  - Matt Davis, ORNL
   - Jens Domke, RIKEN
   - María del Carmen Ruiz Varela, AMD
   - Zach Tschirhart, HPE
