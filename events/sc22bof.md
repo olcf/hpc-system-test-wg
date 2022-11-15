@@ -18,12 +18,31 @@ practices with other HPC centers.
 ### When & Where
 
 - *Date:* Wednesday, November 16th, 2022 from	5:15pm-6:45pm.
-- *Location:* Room TBD, Kay Bailey Hutchison Convention Center, Dallas, TX, USA.
+- *Location:* Room D173, Kay Bailey Hutchison Convention Center, Dallas, TX, USA.
 
 ### Speakers
 
-TBD
+- Jens Domke, RIKEN
+- Maria del Carmen Ruiz Varela, AMD
+- Danny Bolding, AMD
+- Zach Tschirhart, HPE
 
 ### Schedule
 
-TBD
+- 17:15 - 17:20 Welcome: 
+  - Bilel Hadri, KAUST 
+  - Verónica G. Melesse Vergara, ORNL
+- 17:20 - 17:25 Interactive Survey
+- 17:25 - 17:45 Invited Mini-talk: Jens Domke, RIKEN
+- 17:45 - 18:05 Invited Mini-talk: Zach Tschirhart, HPE
+- 18:05 - 18:25 Open panel discussion:
+  - **Moderators**: Bilel Hadri and Verónica G. Melesse Vergara
+  - **Panelists**:
+  - Danny Bolding, AMD
+  - Jens Domke, RIKEN
+  - María del Carmen Ruiz Varela, AMD
+  - Zach Tschirhart, HPE
+- 18:25 - 18:35 Collaboration Opportunities
+- 18:35 - 18:45 Closing remarks
+      
+               
