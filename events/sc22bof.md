@@ -27,6 +27,7 @@ practices with other HPC centers.
 - Matt Davis, ORNL
 - Maria del Carmen Ruiz Varela, AMD
 - Zach Tschirhart, HPE
+- Ugo Varetto, Pawsey Supercomputer Research Centre
 
 ### Schedule
 
@@ -44,7 +45,12 @@ practices with other HPC centers.
   - Jens Domke, RIKEN
   - María del Carmen Ruiz Varela, AMD
   - Zach Tschirhart, HPE
+  - Ugo Varetto, Pawsey Supercomputer Research Centre
+
 - 18:25 - 18:35 Collaboration Opportunities
 - 18:35 - 18:45 Closing remarks
       
-               
+### Connect with the HPC System Test Community
+To join the HPC System Test working group Slack, please visit:
+http://tinyurl.com/hpcsystemtest-slack
+
