@@ -30,5 +30,5 @@ If you have any questions or would like to contribute, please feel free to open 
 
 **Contact Information:** 
 
-Verónica G. Vergara Larrea [@verolero86](https://github.com/verolero86)  
+Verónica G. Melesse Vergara (Vergara Larrea) [@verolero86](https://github.com/verolero86)  
 Bilel Hadri [@hadrib](https://github.com/hadrib)
