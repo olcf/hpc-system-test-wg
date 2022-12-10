@@ -18,14 +18,14 @@ This working group is a new effort started as a result of a Birds-of-a-Feather s
 
 ## Get Involved
 
-There are several ways you can get involved
+There are several ways you can get involved:
 
- - Join our slack community at https://hpc-system-test.slack.com and discuss your thoughts
- - Share your test scripts or benchmarks with rest of community (link to git repo)
- - Participate in future conferences as invited speaker
+ - Join our Slack community at https://hpc-system-test.slack.com and discuss your thoughts
+ - Share your test scripts or benchmarks with rest of community (e.g., link to git repos)
+ - Participate in future conferences and events organized by the working group
 
 If you have any questions or would like to contribute, please feel free to open an [issue](https://github.com/olcf/hpc-system-test-wg/issues) or send a 
-[Pull Request](https://github.com/olcf/hpc-system-test-wg/pulls).
+[pull request](https://github.com/olcf/hpc-system-test-wg/pulls).
 
 
 **Contact Information:** 
