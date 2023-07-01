@@ -3,9 +3,9 @@
 ## https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023
 
 ## General Chairs
-Verónica G. Melesse Vergara (ORNL, USA)
-Bilel Hadri (KAUST, Saudi Arabia)
-Vasileios Karakasis (NVIDIA, Switzerland) 
+* Verónica G. Melesse Vergara (ORNL, USA)
+* Bilel Hadri (KAUST, Saudi Arabia)
+* Vasileios Karakasis (NVIDIA, Switzerland) 
 
 ## Details
 * **When**: Friday, November 17, 2023, 8:30am - 12pm MST, held in conjunction with [SC23](https://sc23.supercomputing.org/).
