@@ -1,6 +1,6 @@
 # HPCTESTS 2023
 ## First International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software
-## https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023
+https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023
 
 ## General Chairs
 * Verónica G. Melesse Vergara (ORNL, USA)
