@@ -1,6 +1,6 @@
 # HPCTESTS 2023
 ## First International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software
-https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023
+[https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023)
 
 ## General Chairs
 * Verónica G. Melesse Vergara (ORNL, USA)
@@ -46,6 +46,15 @@ Topics of interest include, but are not limited to:
 * Paper Deadline: August 10, 2023 AoE
 * Author Notification: September 8, 2023 AoE
 * Camera-ready: September 29, 2023 AoE
+
+## Paper Submissions
+The workshop will publish its proceedings in the SC23 Workshops Proceedings following these guidelines:
+* Submissions should adhere to the new ACM proceedings template available at [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
+* Authors should upload papers in PDF format only.
+* Submissions are limited to 8 pages (not counting references) plus an optional 2 page Artifact Description appendix (10 pages total).
+* For Latex users, version 1.90 (last updated on April 4, 2023) is the latest template. Please use the “sigconf” option.
+* Papers should be submitted via the [SC23 Submissions](https://submissions.supercomputing.org/) system. Look for the HPCTESTS 2023 submission.
+
 
 ## Agenda
 TBA - after CfP closes.
