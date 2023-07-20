@@ -24,5 +24,5 @@ Acceptance testing and regression testing are key components for ensuring the fu
 
 ### Moderators
 
-* Dan Dietz
-* John K. Holmen
+* Dan Dietz, Oak Ridge National Laboratory
+* John K. Holmen, Oak Ridge National Laboratory
