@@ -9,7 +9,7 @@
 
 ## Details
 * **When**: Friday, November 17, 2023, 8:30am - 12pm MST, held in conjunction with [SC23](https://sc23.supercomputing.org/).
-* **Where**: Room TBD, Colorado Convention Center, Denver, Colorado
+* **Where**: Room 503-504, Colorado Convention Center (Denver, Colorado, USA)
 
 
 ## Description
@@ -26,6 +26,7 @@ In addition to discussing procedures and tools utilized, submissions can describ
 
 HPCTESTS 2023 will provide the first technical venue for HPC researchers and practitioners to submit their findings, early works, results, new tools, and more. The workshop encourages innovative works in HPC system testing to improve and rethink the mechanisms used for acceptance and regression testing of HPC systems, their software stack, and their user environment to help the community prepare for the post-exascale era.
 
+### Workshop topics 
 Topics of interest include, but are not limited to:
 * Testing methodologies and procedures
 * Tools and frameworks for regression testing 
@@ -42,12 +43,7 @@ Topics of interest include, but are not limited to:
 * Application-driven testing strategies
 * AI-assisted test generation for HPC systems and/or applications
 
-## Deadlines
-* Paper Deadline: August 10, 2023 AoE
-* Author Notification: September 8, 2023 AoE
-* Camera-ready: September 29, 2023 AoE
-
-## Paper Submissions
+### Paper Submissions
 The workshop will publish its proceedings in the SC23 Workshops Proceedings following these guidelines:
 * Submissions should adhere to the new ACM proceedings template available at [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
 * Authors should upload papers in PDF format only.
@@ -55,6 +51,33 @@ The workshop will publish its proceedings in the SC23 Workshops Proceedings foll
 * For Latex users, version 1.90 (last updated on April 4, 2023) is the latest template. Please use the “sigconf” option.
 * Papers should be submitted via the [SC23 Submissions](https://submissions.supercomputing.org/) system. Look for the HPCTESTS 2023 submission.
 
+### Workshop Deadlines
+* Paper Submission Deadline: ~~August 10, 2023 AoE~~ August 17, 2023 AoE
+* Author Notification: September 8, 2023 AoE
+* Camera-ready: September 29, 2023 AoE
+
+### HPCTESTS 2023 Program Committee
+* Tina Declerck (Lawrence Berkeley National Laboratory)
+* Dan Dietz (Oak Ridge National Laboratory)
+* Jens Domke (RIKEN Center for Computational Science)
+* Ann Gentile (Sandia National Laboratories)
+* Anjus George (Oak Ridge National Laboratory)
+* Lisa Gerhardt (Lawrence Berkeley National Laboratory)
+* Bilel Hadri (King Abdullah University of Science and Technology)
+* Nick Hagerty (Oak Ridge National Laboratory)
+* Victor Holanda Rusu (Swiss National Supercomputing Centre)
+* John Holmen (Oak Ridge National Laboratory)
+* Adrian Jackson (University of Edinburgh)
+* Vasileios	Karakasis	(NVIDIA)
+* Eirini	Koutsaniti (Swiss National Supercomputing Centre, ETH Zurich)
+* James Lin (Shanghai Jiao Tong University)
+* Amiya K. Maji (Purdue University)
+* Verónica G.	Melesse Vergara (Oak Ridge National Laboratory)
+* Guilherme	Peretti-Pezzi	Swiss National Supercomputing Center
+* Maria del Carmen	Ruiz Varela	(Advanced Micro Devices)
+* Shahzeb Siddiqui (Lawrence Berkeley National Laboratory)
+* Zachary Tschirhart (HPE)
+* Le Mai Weakley (Indiana University)
 
 ## Agenda
 TBA - after CfP closes.
