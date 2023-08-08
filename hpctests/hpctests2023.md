@@ -2,15 +2,9 @@
 ## First International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software
 [https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023)
 
-## General Chairs
-* Verónica G. Melesse Vergara (ORNL, USA)
-* Bilel Hadri (KAUST, Saudi Arabia)
-* Vasileios Karakasis (NVIDIA, Switzerland) 
-
 ## Details
 * **When**: Friday, November 17, 2023, 8:30am - 12pm MST, held in conjunction with [SC23](https://sc23.supercomputing.org/).
 * **Where**: Room 503-504, Colorado Convention Center (Denver, Colorado, USA)
-
 
 ## Description
 
@@ -56,6 +50,18 @@ The workshop will publish its proceedings in the SC23 Workshops Proceedings foll
 * Author Notification: September 8, 2023 AoE
 * Camera-ready: September 29, 2023 AoE
 
+## Organizing Committees
+### HPCTESTS 2023 General Chairs
+* Verónica G. Melesse Vergara (ORNL, USA)
+* Bilel Hadri (KAUST, Saudi Arabia)
+* Vasileios Karakasis (NVIDIA, Switzerland) 
+
+### HPCTESTS 2023 Steering Committee
+* Jennifer Green (Los Alamos National Laboratory)
+* Keita Teranishi (Oak Ridge National Laboratory)
+* Olga Pearce (Livermore National Laboratory)
+* Oscar Hernandez (Oak Ridge National Laboratory)
+
 ### HPCTESTS 2023 Program Committee
 * Tina Declerck (Lawrence Berkeley National Laboratory)
 * Dan Dietz (Oak Ridge National Laboratory)
@@ -68,15 +74,15 @@ The workshop will publish its proceedings in the SC23 Workshops Proceedings foll
 * Victor Holanda Rusu (Swiss National Supercomputing Centre)
 * John Holmen (Oak Ridge National Laboratory)
 * Adrian Jackson (University of Edinburgh)
-* Vasileios	Karakasis	(NVIDIA)
-* Eirini	Koutsaniti (Swiss National Supercomputing Centre, ETH Zurich)
+* Vasileios Karakasis	(NVIDIA)
+* Eirini Koutsaniti (Swiss National Supercomputing Centre, ETH Zurich)
 * James Lin (Shanghai Jiao Tong University)
 * Amiya K. Maji (Purdue University)
 * Verónica G.	Melesse Vergara (Oak Ridge National Laboratory)
-* Guilherme	Peretti-Pezzi	Swiss National Supercomputing Center
-* Maria del Carmen	Ruiz Varela	(Advanced Micro Devices)
+* Guilherme Peretti-Pezzi	(Swiss National Supercomputing Center)
+* Maria del Carmen Ruiz Varela (Advanced Micro Devices)
 * Shahzeb Siddiqui (Lawrence Berkeley National Laboratory)
-* Zachary Tschirhart (HPE)
+* Zachary Tschirhart (Hewlett Packard Enterprise)
 * Le Mai Weakley (Indiana University)
 
 ## Agenda
