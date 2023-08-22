@@ -63,9 +63,11 @@ The workshop will publish its proceedings in the SC23 Workshops Proceedings foll
 * Oscar Hernandez (Oak Ridge National Laboratory)
 
 ### HPCTESTS 2023 Program Committee
+* Maciej Cytowski (Pawsey Supercomputing Centre)
 * Tina Declerck (Lawrence Berkeley National Laboratory)
 * Dan Dietz (Oak Ridge National Laboratory)
 * Jens Domke (RIKEN Center for Computational Science)
+* Pascal Elahi (Pawsey Supercomputing Centre)
 * Ann Gentile (Sandia National Laboratories)
 * Anjus George (Oak Ridge National Laboratory)
 * Lisa Gerhardt (Lawrence Berkeley National Laboratory)
@@ -79,6 +81,7 @@ The workshop will publish its proceedings in the SC23 Workshops Proceedings foll
 * James Lin (Shanghai Jiao Tong University)
 * Amiya K. Maji (Purdue University)
 * Verónica G.	Melesse Vergara (Oak Ridge National Laboratory)
+* Mark O'Shea (Pawsey Supercomputing Centre)
 * Guilherme Peretti-Pezzi	(Swiss National Supercomputing Center)
 * Maria del Carmen Ruiz Varela (Advanced Micro Devices)
 * Shahzeb Siddiqui (Lawrence Berkeley National Laboratory)
