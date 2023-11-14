@@ -25,11 +25,11 @@ Workshop will be focusing on:
 
 ### Format
 
-#### Friday, November 3, 2024, 9:00am - 5:00pm
+#### Friday, May 3, 2024, 9:00am - 5:00pm
 
 In the morning session, participants will be grouped in teams working on selected aspects of the HPC testing environment (based on registration). They will be able to experiment and review available tests and shortlist candidates for the test suite. Each team will be asked to present their work during the summary presentations session in the afternoon.
 
-#### Saturday, November 4, 2024, 9:00am - 1:00pm
+#### Saturday, May 4, 2024, 9:00am - 1:00pm
 
 Lightning talks from HPC sites about their approaches to HPC testing. The focus will be on frameworks, tools, challenges and solutions rather than on specific tests investigated during the first day of the event.
 
