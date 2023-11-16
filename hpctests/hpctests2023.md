@@ -88,5 +88,14 @@ The workshop will publish its proceedings in the SC23 Workshops Proceedings foll
 * Zachary Tschirhart (Hewlett Packard Enterprise)
 * Le Mai Weakley (Indiana University)
 
-## Agenda
-TBA - after CfP closes.
+## [Agenda](https://sc23.conference-program.com/session/?sess=sess464)
+* **8:30am - 8:40am MST** Welcome and Introduction by Verónica G. Melesse Vergara
+* **8:40am - 9:10am MST** Testing the space between: Extending HPC testing for a complex HPC workflow environment by Hai Ah Nam
+* **9:10am - 9:35am MST** Experiences Detecting Defective Hardware in Exascale Supercomputers by Nick Hagerty, Jordan Webb, Verónica Melesse Vergara, and Matt Ezell
+* **9:35am - 10am MST** Principles for Automated and Reproducible Benchmarking by Tuomas Koskela, Ilektra Christidi, Mosè Giordano, Emily Dubrovska, Jamie Quinn, Christopher Maynard, Dave Case, Kaan Olgu, and Tom Deakin
+* **10am - 10:30am MST** Morning Break
+* **10:30am - 10:55am MST** Ramble: A Flexible, Extensible, and Composable Experimentation Framework by Doug Jacobsen and Bob Bird
+* **10:55am - 11:20am MST** Toward Collaborative Continuous Benchmarking for HPC by Olga Pearce, Alec Scott, Gregory Becker, Riyaz Haque, Nathan Hanford, Stephanie Brink, Doug Jacobsen, Heidi Poxon, Jens Domke, and Todd Gamblin
+* **11:20am - 11:55am MST** Perspectives and Discussion Panel with Doug Jacobsen, Olga Pearce, Nick Hagerty, Tuomas Koskela
+* **11:55am - 12pm MST** Closing Remarks by Bilel Hadri, Vasileios Karakasis, Verónica Melesse Vergara
+
