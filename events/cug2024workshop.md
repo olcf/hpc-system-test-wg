@@ -44,6 +44,7 @@ http://tinyurl.com/hpcsystemtest-slack
 
 * Event is in-person only.
 * Participation is limited to 45 individuals.
+* Registration is open to all HPC professionals, with priority given to CUG 2024 attendees and individuals willing to share their open-source tests,
 * Registration is required, please register [here](https://pawsey.org.au/event/2024-hpc-system-test-workshop-with-hands-on/).
 
 ## 2024 HPCTESTATHON General Chairs
