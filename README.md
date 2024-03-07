@@ -8,6 +8,8 @@ This working group is a new effort started as a result of a Birds-of-a-Feather s
 
 ## Events
 
+- [First International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023) at SC23
+  
 - [HPC System Testing: Looking ahead to Post-Exascale Systems and HPC Ecosystems](https://olcf.github.io/hpc-system-test-wg/events/sc22bof) at SC22
 
 - [HPC System Test: Towards Improving Availability and Portability of HPC Test Suites](https://olcf.github.io/hpc-system-test-wg/events/sc21bof) at SC21
