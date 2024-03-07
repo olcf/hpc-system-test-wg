@@ -22,7 +22,7 @@ This working group is a new effort started as a result of a Birds-of-a-Feather s
 
 There are several ways you can get involved:
 
- - Join our Slack community at https://hpc-system-test.slack.com and discuss your thoughts
+ - Join our Slack community at [https://hpc-system-test.slack.com](https://hpc-system-test.slack.com) and discuss your thoughts
  - Share your test scripts or benchmarks with rest of community (e.g., link to git repos)
  - Participate in future conferences and events organized by the working group
 
