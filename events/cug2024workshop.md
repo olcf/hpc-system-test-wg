@@ -48,7 +48,7 @@ Note: each talk is 10+5min (10min presentation, 5min Q&A)
 |10:30 - 10:45|TBC|||
 |10:45 - 11:00|Harold Longley, Jason Sollom (HPE)|Existing HPE Test Infrastructure|Explain the existing test infrastructure that ships with the CSM software including available system health tests. Goss servers run on worker nodes and new Goss tests could be launched with them.|
 |11:00 - 11:15|Pascal Elahi, Craig Meyer (Pawsey)|HPC Testing using reframe at Pawsey|We will discuss our suite of MPI, GPU and SLURM tests implemented using the Reframe framework and a suite of unit tests, with particular focus on extracting diagnostic information when tests fail.|
-|11:15 - 11:30|TBC|||
+|11:15 - 11:30|Benjamin Cumming (CSCS)|ReFrame - regression tests and benchmarks||
 |11:30 - 11:45|TBC|||
 |11:45 - 12:00|Gabriel Hautreux (CINES)|Stack deployment and tests at CINES|CINES implements an integrated solution to deploy versioned software stacks using gitlab CI, those stacks are deployed using Spack, and tested using reframe.|
 
