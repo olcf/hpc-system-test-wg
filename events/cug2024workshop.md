@@ -45,7 +45,7 @@ Note: each talk is 10+5min (10min presentation, 5min Q&A)
 
 |Time|Speaker|Title|Short description|
 |---|---|---|---|
-|10:30 - 10:45|TBC|||
+|10:30 - 10:45|Juan Herrera (EPCC)|EPCC's ReFrame testing strategies for ARCHER2 and Cirrus|This talk will cover the tests that EPCC carries out using ReFrame on ARCHER2 (HPE Cray EX with 5,860 CPU nodes) and Cirrus (HPE SGI 8600 with 280 CPU nodes and 38 GPU nodes).|
 |10:45 - 11:00|Harold Longley, Jason Sollom (HPE)|Existing HPE Test Infrastructure|Explain the existing test infrastructure that ships with the CSM software including available system health tests. Goss servers run on worker nodes and new Goss tests could be launched with them.|
 |11:00 - 11:15|Pascal Elahi, Craig Meyer (Pawsey)|HPC Testing using reframe at Pawsey|We will discuss our suite of MPI, GPU and SLURM tests implemented using the Reframe framework and a suite of unit tests, with particular focus on extracting diagnostic information when tests fail.|
 |11:15 - 11:30|Benjamin Cumming (CSCS)|ReFrame - regression tests and benchmarks||
