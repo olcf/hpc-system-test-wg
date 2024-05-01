@@ -37,7 +37,7 @@ Note: each talk is 10+5min (10min presentation, 5min Q&A)
 |---|---|---|---|
 |9:15 - 9:30|Paul Ferrell (LANL)|Crossroads Acceptance Testing with Pavilion|This talk will cover the library of acceptance tests we built in Pavilion for testing Crossroads, our new 6000 node Cray Shasta system.|
 |9:30 - 9:45|Veronica Vergara Larrea, Nick Hagerty, John Holmen (OLCF)|HPC System Testing at the Oak Ridge Leadership Computing Facility|This talk will discuss the OLCF Test Harness, our test monitoring capabilities, and test suite.|
-|9:45 - 10:00|Isayah Reed (Microsoft)|Validation challenges for cloud/VM: why current frameworks are inadequate|All of these various frameworks (pavillion, reframe, etc) assume on-premise static clusters. Cloud is a completely different beast that requires additional considerations.|
+|9:45 - 10:00|Isayah Reed (Microsoft)|Cloud validation challenges: why current frameworks are inadequate|Cloud validation requires additional considerations that are not addressed by existing frameworks such as Pavillion, NHC, and Reframe - which assume on-site and mostly static clusters.|
 
 ##### 10:00 - 10:30 Morning Tea
 
