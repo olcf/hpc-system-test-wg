@@ -86,8 +86,7 @@ Note: each talk is 10+5min (10min presentation, 5min Q&A)
 Supercomputing centres willing to share their open source tests are encouraged to submit them as part of the registration. Supercomputing centres using closed source testing procedures are welcome to participate in the event to experiment with tests presented by other sites. Providing links to open repositories and their descriptions is optional during registration.
 
 ### Connect with the HPC System Test Community
-This workshop is organised as part of the HPC System Test working group. To join the HPC System Test working group Slack, please visit:
-http://tinyurl.com/hpcsystemtest-slack
+This workshop is organised as part of the HPC System Test working group. To join the HPC System Test working group Slack, please visit [here](https://join.slack.com/t/hpc-system-test/shared_invite/zt-2hxjhnemv-ujB9XFai1zAPkaNqRcEdXw).
 
 ## Workshop registration
 
