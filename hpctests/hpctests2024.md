@@ -18,7 +18,7 @@ The workshop will publish its proceedings in the SC24 Workshops Proceedings. Ple
 ### Workshop Deadlines
 * Paper Submission Deadline: August 16, 2024 AoE
 * Author Notification: September 6, 2024 AoE
-* Camera-ready: September 27, 2023 AoE
+* Camera-ready: September 27, 2024 AoE
 
 ## Organizing Committees
 ### HPCTESTS 2024 General Chairs
