@@ -10,11 +10,11 @@ This working group is a new effort started as a result of a Birds-of-a-Feather s
 
 - [HPCTESTS 2024: 2nd International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023) at SC24
 
-- [HPC System Testing: 2024 HPCTESTATHON](https://olcf.github.io/hpc-system-test-wg/events/pearc23bof) at Cray User Group (CUG) 2024
+- [HPC System Testing: 2024 HPCTESTATHON](https://olcf.github.io/hpc-system-test-wg/events/cug2024workshop) at Cray User Group (CUG) 2024
 
 - [HPCTESTS 2023: First International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023) at SC23
 
-- [HPC System Testing Birds-of-a-Feather: Code Selection for Acceptance/Regression Testing](https://olcf.github.io/hpc-system-test-wg/events/pearc2023bof) at PEARC 2023
+- [HPC System Testing Birds-of-a-Feather: Code Selection for Acceptance/Regression Testing](https://olcf.github.io/hpc-system-test-wg/events/pearc23bof) at PEARC 2023
 
 - [HPC System Testing Birds-of-a-Feather: Challenges and Lessons Learned Deploying Bleeding-Edge Network Technologies](https://olcf.github.io/hpc-system-test-wg/events/cug2023bof) at Cray User Group (CUG) 2023
 
