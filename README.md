@@ -8,13 +8,23 @@ This working group is a new effort started as a result of a Birds-of-a-Feather s
 
 ## Events
 
-- [HPC System Testing: Looking ahead to Post-Exascale Systems and HPC Ecosystems](https://olcf.github.io/hpc-system-test-wg/events/sc22bof) at SC22
+- [HPCTESTS 2024: 2nd International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023) at SC24
 
-- [HPC System Test: Towards Improving Availability and Portability of HPC Test Suites](https://olcf.github.io/hpc-system-test-wg/events/sc21bof) at SC21
+- [HPC System Testing: 2024 HPCTESTATHON](https://olcf.github.io/hpc-system-test-wg/events/pearc2023bof) at Cray User Group (CUG) 2024
 
-- [HPC System Testing: Building a cross-center collaboration for system testing](https://olcf.github.io/hpc-system-test-wg/events/cug2021bof) at Cray User Group (CUG) 2021
+- [HPCTESTS 2023: First International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2023) at SC23
 
-- [HPC System Testing: Procedures, Acceptance, Regression Testing, and Automation](https://olcf.github.io/hpc-system-test-wg/events/sc19bof.html) at SC19
+- [HPC System Testing Birds-of-a-Feather: Code Selection for Acceptance/Regression Testing](https://olcf.github.io/hpc-system-test-wg/events/pearc2023bof) at PEARC 2023
+
+- [HPC System Testing Birds-of-a-Feather: Challenges and Lessons Learned Deploying Bleeding-Edge Network Technologies](https://olcf.github.io/hpc-system-test-wg/events/cug2023bof) at Cray User Group (CUG) 2023
+
+- [HPC System Testing Birds-of-a-Feather: Looking ahead to Post-Exascale Systems and HPC Ecosystems](https://olcf.github.io/hpc-system-test-wg/events/sc22bof) at SC22
+
+- [HPC System Test Birds-of-a-Feather: Towards Improving Availability and Portability of HPC Test Suites](https://olcf.github.io/hpc-system-test-wg/events/sc21bof) at SC21
+
+- [HPC System Testing Birds-of-a-Feather: Building a cross-center collaboration for system testing](https://olcf.github.io/hpc-system-test-wg/events/cug2021bof) at Cray User Group (CUG) 2021
+
+- [HPC System Testing Birds-of-a-Feather: Procedures, Acceptance, Regression Testing, and Automation](https://olcf.github.io/hpc-system-test-wg/events/sc19bof.html) at SC19
 
 ## Get Involved
 
