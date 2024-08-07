@@ -3,8 +3,8 @@
 [https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2024](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2024)
 
 ## Details
-* **When**: TBA, held in conjunction with [SC24](https://sc24.supercomputing.org/).
-* **Where**: Room TBD, Georgia World Congress Center (Atlanta, Goeorgia, USA)
+* **When**: 08:30 - 12:00 ET on Friday, November 22, 2024, held in conjunction with [SC24](https://sc24.supercomputing.org/).
+* **Where**: Room B315, Georgia World Congress Center (Atlanta, Goeorgia, USA)
 
 ## Description
 The Second International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software (HPCTESTS) will bring together experts from high performance computing (HPC) centers around the globe to present and discuss state-of-the-art HPC system testing methodologies, tools, and best practices. The workshop will encourage submissions that highlight current benchmarks, tests, and procedures utilized in today’s HPC systems. This event will provide an avenue to showcase newly developed tools and methodologies, as well as those that are being actively designed to allow authors to gather feedback from the community that could help guide their project. As machine learning (ML) and deep learning (DL) become more prevalent workloads, HPC centers must provide a wider range of services and more robust and resilient resources in order to support both traditional HPC and ML/DL workloads. The workshop will also invite submissions that are looking ahead at the post-exascale future of HPC system testing to help the community think of alternate mechanisms that could be used to adapt to the evolving and emerging workloads. The event will invite and welcome international participation from HPC centers, academic institutions, as well as representatives from vendors in the supercomputing space.
