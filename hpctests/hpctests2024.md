@@ -46,9 +46,16 @@ The workshop will publish its proceedings with the SC24 conference. Authors must
 
 ## Organizing Committees
 ### HPCTESTS 2024 General Chairs
-* Verónica G. Melesse Vergara (ORNL, USA)
-* Bilel Hadri (KAUST, Saudi Arabia)
-* Vasileios Karakasis (NVIDIA, Switzerland) 
+* Verónica G. Melesse Vergara (Oak Ridge National Laboratory, USA)
+* Bilel Hadri (King Abdullah University of Science and Technology, Saudi Arabia)
+* Vasileios Karakasis (NVIDIA, Switzerland)
+
+### HPCTESTS 2024 Steering Committee
+* Keita Teranishi (Oak Ridge National Laboratory, USA)
+* Maciej Cytowski (Pawsey Supercomputing Centre, Australia)
+* Michèle Weiland (Edinburgh Parallel Computing Centre / University of Edinburgh, Scotland)
+* Olga Pearce (Livermore National Laboratory)
+* Oscar Hernandez (Oak Ridge National Laboratory)
 
 
 
