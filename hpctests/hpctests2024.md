@@ -39,8 +39,10 @@ Topics of interest include, but are not limited to:
 ### Paper Submissions
 The workshop will publish its proceedings with the SC24 conference. Authors must follow the formatting guidelines from SC24 Papers which are available [here](https://sc24.supercomputing.org/program/papers/). Submissions can be 5-10 two-column pages (U.S. letter – 8.5 inches x 11 inches), excluding the bibliography, using the IEEE proceedings template. The IEEE conference proceeding templates for LaTeX and MS Word provided by IEEE eXpress Conference Publishing are available for download. See the templates [here](https://www.ieee.org/conferences/publishing/templates.html).
 
+Submissions will be accepted through the SC24 Submissions site: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/). After you create an account, you will be able to submit to the HPCTESTS 2024 form.
+
 ### Workshop Deadlines
-* Paper Submission Deadline: August 16, 2024 AoE
+* Paper Submission Deadline: **August 16, 2024 AoE**
 * Author Notification: September 6, 2024 AoE
 * Camera-ready: September 27, 2024 AoE
 
