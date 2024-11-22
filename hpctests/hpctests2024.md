@@ -4,7 +4,7 @@
 
 ## Details
 * **When**: 08:30 - 12:00 ET on Friday, November 22, 2024, held in conjunction with [SC24](https://sc24.supercomputing.org/).
-* **Where**: Room B315, Georgia World Congress Center (Atlanta, Goeorgia, USA)
+* **Where**: Room B309, Georgia World Congress Center (Atlanta, Goeorgia, USA)
 
 ## Description
 The Second International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software (HPCTESTS) will bring together experts from high performance computing (HPC) centers around the globe to present and discuss state-of-the-art HPC system testing methodologies, tools, and best practices. The workshop will encourage submissions that highlight current benchmarks, tests, and procedures utilized in today’s HPC systems. This event will provide an avenue to showcase newly developed tools and methodologies, as well as those that are being actively designed to allow authors to gather feedback from the community that could help guide their project. As machine learning (ML) and deep learning (DL) become more prevalent workloads, HPC centers must provide a wider range of services and more robust and resilient resources in order to support both traditional HPC and ML/DL workloads. The workshop will also invite submissions that are looking ahead at the post-exascale future of HPC system testing to help the community think of alternate mechanisms that could be used to adapt to the evolving and emerging workloads. The event will invite and welcome international participation from HPC centers, academic institutions, as well as representatives from vendors in the supercomputing space.
@@ -58,6 +58,39 @@ Submissions will be accepted through the SC24 Submissions site: [https://submiss
 * Michèle Weiland (Edinburgh Parallel Computing Centre / University of Edinburgh, Scotland)
 * Olga Pearce (Livermore National Laboratory)
 * Oscar Hernandez (Oak Ridge National Laboratory)
+
+### HPCTESTS 2024 Program Committee
+* Jay Blair (P&G, USA)
+* Tina Declerck (Lawrence Berkeley National Laboratory, USA)
+* Dan Dietz (Oak Ridge National Laboratory, USA)
+* Jens Domke (RIKEN, Japan)
+* Pascal Jahan Elahi (Pawsey Supercomputing Research Centre, Australia)
+* Paul Ferrell (Los Alamos National Laboratory, USA)
+* Bilel Hadri (King Abdullah University of Science and Technology, Saudi Arabia)
+* Nick Hagerty (Oak Ridge National Laboratory, USA)
+* John Holmen (Oak Ridge National Laboratory, USA)
+* Adrian Jackson (University of Edinburgh, Scotland)
+* Vasileios Karakasis (NVIDIA, Switzerland)
+* Eirini Koutsaniti (Swiss National Supercomputing Centre, Switzerland)
+* James Lin (Shanghai Jiao Tong University, China)
+* Amiya K. Maji (Purdue University, USA)
+* Alessandro Marani (CINECA, Italy)
+* Zachary Tschirhart (HPE, USA)
+* Andy Warner (HPE, USA)
+
+## [Agenda](https://sc24.conference-program.com/session/?sess=sess772)
+* **8:30am - 8:40am MST** Welcome and Introduction by Verónica G. Melesse Vergara
+
+* **08:30-08:40 ET** Welcome
+* **08:40-09:20 ET** Architecting and deploying compute clusters for large language models (Mike Houston, NVIDIA)
+* **09:20-09:40 ET** Testing GPU Numerics: Finding Numerical Differences between NVIDIA and AMD GPUs (A. Zahid, et al.)
+* **09:40-10:00 ET** Performance Analysis of Scientific Applications on a Grace System (A. Ruhela, et al.)
+* **10:00-10:30 ET** BREAK
+* **10:30-10:50 ET** Understanding Data Movement in AMD Multi-GPU Systems with Infinity Fabric (G. Schieffer, et al.)
+* **10:50-11:10 ET** Testing the Unknown: A Framework for OpenMP Testing via Random Program Generation (I. Laguna, et al.)
+* **11:10-11:30 ET** Benchmarking and Continuous Performance Monitoring of Ookami, an ARM Fujitsu A64FX Testbed Cluster (N. Simakov, et al.)
+* **11:30-11:50 ET** Perspectives and Discussions Panel 
+* **11:50-12:00 ET** Closing Remarks by Bilel Hadri, Verónica Melesse Vergara
 
 
 
