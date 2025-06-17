@@ -6,7 +6,7 @@
 
 ## Details
 
-* **When**: 08:30 - 12:00 ET on Friday, November 21, 2025, held in conjunction with [SC25](https://sc25.supercomputing.org/).
+* **When**: 08:30 - 12:00 CT on Friday, November 21, 2025, held in conjunction with [SC25](https://sc25.supercomputing.org/).
 * **When**: Held in conjunction with [SC25](https://sc25.supercomputing.org/) in St. Louis, Mo, USA.
 
 ## Description
@@ -23,7 +23,7 @@ In addition to discussing procedures and tools utilized, submissions can describ
 
 This half-day workshop will kick off with an opening presentation focused on HPC system testing at scale. The session will be followed by a series of paper talks selected from the open call for submissions that will be held. The workshop will conclude with a panel discussing key topics impacting the HPC system testing community.
 
-The workshop description, programming committee, Call for Papers (CFP), papers, and presentations will be archived in the HPC System Test Working Group website (https://olcf.github.io/hpc-system-test-wg/) under a dedicated section for the HPCTESTS workshop.
+The workshop description, program committee, Call for Papers (CFP), papers, and presentations will be archived in the HPC System Test Working Group website (https://olcf.github.io/hpc-system-test-wg/) under a dedicated section for the HPCTESTS workshop.
 
 Due to the wide range of systems currently in production and the rapidly evolving landscape of supercomputer architectures, the community should leverage individual center efforts to develop a collaborative set of best practices that will evolve from the publication of current tools, tests, and benchmarks. The diversity of architectures, compounded with the distinct user workloads supported at each HPC center has resulted in each center developing their own procedures, tests, benchmarks, and tools to conduct acceptance and regression testing. However, as we have learned through our events and workshops, these mechanisms are conceptually similar, and the tests utilized could be leveraged by multiple centers. In the workshop, we hope to attract stakeholders from vendors, HPC center staff, students, and faculty, interested in exploring HPC system testing topics more in depth. 
 
