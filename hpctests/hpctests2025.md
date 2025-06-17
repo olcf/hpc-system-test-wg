@@ -35,7 +35,7 @@ Topics of interest include, but are not limited to:
 - Efforts to improve reproducibility, sustainability, and availability of tests that can be leveraged by the community.
 - Hardware and component focused testing (compute, memory, network, storage) at all scales from a single server (CPU/GPU) to clusters and cloud environments.
 - System software, programming languages, and library testing.
-- Monitoring and analysis of tests results.
+- Monitoring and analysis of test results.
 - Best practices and lessons.
 - Early detection of failures using novel approaches (e.g., leveraging ML).
 - Benchmark and testing for emerging technologies (e.g., quantum computing, ML/AI).
