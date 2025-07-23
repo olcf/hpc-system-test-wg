@@ -74,7 +74,31 @@ TBC
 
 ### HPCTESTS 2025 Program Committee
 
-TBC
-
-
+* Damian Alvarez (Jülich Supercomputing Centre, Germany)
+* Colleen Bertoni (Argonne National Laboratory, USA)
+* Jay Blair (Proctor & Gamble Company, ASRC Federal, USA)
+* Stephanie Brink (Lawrence Livermore National Laboratory, USA)
+* Brandon Cook (Lawrence Berkeley National Laboratory, USA)
+* Dan Dietz (Oak Ridge National Laboratory, USA)
+* Jens Domke (RIKEN Center for Computational Science, Japan)
+* Pascal Jahan Elahi (Pawsey Supercomputing Research Centre, Australia)
+* Ann Gentile (Sandia National Laboratories, USA)
+* Lisa Gerhardt (Lawrench Berkeley National Laboratory, USA)
+* Bilel Hadri (King Abdullah University of Science and Technology, Saudi Arabia)
+* Nick Hagerty (Oak Ridge National Laboratory, USA)
+* Victor Holanda Rusu (Swiss National Supercomputing Centre, Switzerland)
+* John Holmen (Oak Ridge National Laboratory, USA)
+* Adrian Jackson (University of Edinburgh, Scotland)
+* Vasileios Karakasis (NVIDIA, Switzerland)
+* Gary Kedziora (NASA, USA)
+* Eirini Koutsaniti (Swiss National Supercomputing Centre, Switzerland)
+* Ignacio Laguna (Lawrence Livermore National Laboratory, USA)
+* Junjie Li (Advanced Micro Devices, Inc., USA)
+* James Lin (Shanghai Jiao Tong University, China)
+* Amiya K. Maji (Purdue University, USA)
+* Alessandro Marani (CINECA, Italy)
+* Verónica G. Melesse Vergara (Oak Ridge National Laboratory, USA)
+* Maria del Carmen Ruiz Varela (Advanced Micro Devices, Inc., USA)
+* Zachary Tschirhart (Sustainment, USA)
+* Andy Warner (Hewlett Packard Enterprise, USA)
 
