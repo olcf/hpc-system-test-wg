@@ -51,7 +51,7 @@ Submissions will be accepted through the SC25 Submissions site: [https://submiss
 
 ### Workshop Deadlines
 
-* Paper Submission Deadline: **August 1, 2025 AoE (UTC-12)**
+* Paper Submission Deadline: ~~**August 1, 2025 AoE (UTC-12)**~~ **August 7, 2025 AoE (UTC-12)**
 * Author Notification: September 5, 2025 AoE
 * Camera-ready: September 29, 2025 AoE
 
