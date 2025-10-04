@@ -70,7 +70,11 @@ Submissions will be accepted through the SC25 Submissions site: [https://submiss
 
 ### HPCTESTS 2025 Steering Committee
 
-TBC
+* Keita Teranishi (Oak Ridge National Laboratory, USA)
+* Maciej Cytowski (Pawsey Supercomputing Centre, Australia)
+* Michèle Weiland (Edinburgh Parallel Computing Centre / University of Edinburgh, Scotland)
+* Olga Pearce (Lawrence Livermore National Laboratory, USA)
+* Oscar Hernandez (Oak Ridge National Laboratory, USA)
 
 ### HPCTESTS 2025 Program Committee
 
@@ -83,7 +87,7 @@ TBC
 * Jens Domke (RIKEN Center for Computational Science, Japan)
 * Pascal Jahan Elahi (Pawsey Supercomputing Research Centre, Australia)
 * Ann Gentile (Sandia National Laboratories, USA)
-* Lisa Gerhardt (Lawrench Berkeley National Laboratory, USA)
+* Lisa Gerhardt (Lawrence Berkeley National Laboratory, USA)
 * Bilel Hadri (King Abdullah University of Science and Technology, Saudi Arabia)
 * Nick Hagerty (Oak Ridge National Laboratory, USA)
 * Victor Holanda Rusu (Swiss National Supercomputing Centre, Switzerland)
