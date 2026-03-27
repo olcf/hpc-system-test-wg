@@ -40,10 +40,10 @@ The goal of the morning sessions is to **share lessons learned, challenges, and 
 
 |Time|Speaker|Title|Short description|
 |---|---|---|---|
-|9:30 - 9:45|TBD|||
-| 9:45 – 10:00 | TBD |  |  |
-| 10:00 – 10:15 | TBD |  |  |
-| 10:15 – 10:30 | TBD |  |  |
+|9:30 - 9:45| Bilel Hadri (KAUST)| Keeping HPC Systems Nice and Calm: Regression Testing from KAUST Supercomputing Lab| We will share our experience integrating new CPU, GPU, and storage architectures, along with managing the regular updates of OS and PrgEnv updates across our HPE-Cray systems. The session highlights the testing frameworks, automation practices, and real‑world wins that keep large‑scale HPC/AI platforms stable, predictable, and ready to deliver a great user experience |
+| 9:45 – 10:00 | Guilherme Peretti-Pezzi / Jonathan Coles (CSCS) | vCluster validation on Alps with ReFrame | Alps is a general-purpose compute and data Research Infrastructure, composed by a dynamic and heterogeneous set of vClusters. In this talk we will present an overview of the main challenges for testing these systems, in order to provide a smooth user experience throughout the vClusters life-cycle |
+| 10:00 – 10:15 | Maciej Cytowski (Pawsey) | Reframe testing on Setonix at Pawsey | We will summarise current operational Reframe testing environment used on Setonix supercomputer at Pawsey Supercomputing Research Centre. We will cover types of tests, challenges, use cases and recent developments on the performance monitoring side |
+| 10:15 – 10:30 | Isa Wazirzada (HPE) | Hit Me with Your Best Shot: Portable Node Stress Testing with Torch Hammer | We will briefly introduce Torch Hammer, an open-source PyTorch‑based framework we developed for node‑level stress testing across CPUs, GPUs, and APUs. The focus will be on how it helps us check performance and stability expectations (e.g. GEMM performance, memory bandwidth, power/thermal |
 | 10:30 – 10:45 | TBD |  |  |
 
 **11:00 - 11:30: Break**
@@ -55,7 +55,7 @@ The goal of the morning sessions is to **share lessons learned, challenges, and 
 | 11:30 – 11:45 | TBD |  |  |
 | 11:45 – 12:00 | TBD |  |  |
 | 12:00 – 12:15 | TBD |  |  |
-| 12:15 – 12:30 | TBD |  |  |
+| 12:15 – 12:30 | Mathieu Gontier (AMD) | Best practices for prolog/epilog in AMD HPC GPU batch systems | We will discuss common practices throughout Tier 1 AMD/HPC GPU systems as for addressing system state, memory fragmentation, GPU health/performance and RAS metrics. We will briefly cover RVS, a low level performance benchmarking tool used in such flows. |
 
 **12:30 – 14:00: Lunch break**  
 
