@@ -8,16 +8,15 @@
 - Name (Institution)
 - Name (Institution)
 
-## Suggested Timeline
-
+*Suggested Timeline*
 - 10 min: Review existing content (repo and insight from 2024)
 - 80 min: Discussion
 - 20 min: Define recommendations
 - 10 min: Prepare wrap-up
 
-## Existing Content
+## 0. Existing Content
 
-### Repositories
+### a) Repositories
 
 - **OLCF**: https://github.com/olcf/olcf-test-harness  
 - **Pawsey**: https://github.com/PawseySC/Reframe-MPI-Stress-Tests  
@@ -34,20 +33,20 @@
 - **EPCC**: https://github.com/EPCCed/epcc-reframe  
 - **CINES**: https://git.cines.fr/external/cines-reframe-tests  
 
-### Insights from 2024
+### b) Insights from 2024
 
 Worksheets from the 2024 Testathon can be found here *(Please contact Maciej Cytowski if you need access.)* :  
 https://drive.google.com/drive/folders/1yRejWr6dwbB6a2WHUfEEdGUBWfOhaqei  
 
 ---
 
-## Scope and Objectives
+## 1. Scope and Objectives
 
 Provide a brief overview of this testing area:
 - **Description of the category**
 - **Groupe focus/Session objective:** What is the main focus/goal of this group?  *(e.g., Clarifying what “node health” means in practice and how it is validated, this can be refined during the session)*
 
-## Detailed Tests
+## 2. Detailed Tests
 
 Links to repositories containing tests in that category  
 
@@ -59,7 +58,7 @@ Links to repositories containing tests in that category
 |          |                |                                    |                                             |                                         |                                          |
 |          |                |                                    |                                             |                                         |                                          |
 
-## Guiding Questions
+## 3. Guiding Questions
 
 Questions to structure the discussion:
 
@@ -67,7 +66,7 @@ Questions to structure the discussion:
 - Question 2  
 - Question 3  
 
-## Discussion Notes
+## 4. Discussion Notes
 
 Capture key points raised during the discussion:
 
@@ -76,8 +75,7 @@ Capture key points raised during the discussion:
 - **Differences between sites:**  
 - **Tools / methodologies mentioned:**  
 
-
-## Recommendations
+## 5. Recommendations
 
 Summarize practical recommendations emerging from the discussion:
 
@@ -85,7 +83,7 @@ Summarize practical recommendations emerging from the discussion:
 - Recommendation 2  
 
 
-## Key Takeaways (3–5 bullets max)
+## 6. Key Takeaways (3–5 bullets max)
 
 -
 -
