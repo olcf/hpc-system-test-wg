@@ -7,6 +7,7 @@
 **Participants:**
 - Cloirec (Cines)
 - Name (Institution)
+- ...
 
 *Suggested Timeline*
 - 10 min: Review existing content (repo and insight from 2024)
@@ -44,7 +45,18 @@ https://drive.google.com/drive/folders/1yRejWr6dwbB6a2WHUfEEdGUBWfOhaqei
 
 Provide a brief overview of this testing area:
 - **Description of the category**
-- **Groupe focus/Session objective:** What is the main focus/goal of this group?  *(e.g., Clarifying what “node health” means in practice and how it is validated, this can be refined during the session)*
+
+This working group focuses on energy-related matters. This applies to tests that measure the energy consumption of a set of devices or a single device, a set of applications or a single application, or a set of jobs or a single jobs.
+
+It also focuses on tests that can or could be used to verify the accuracy of energy measurements.
+
+Finally, it addresses possible correlations or links between the tests studied in other working groups and energy.
+
+
+- **Groupe focus/Session objective:** 
+
+The main focus of this group is to find energy tests or tests related to energy caracterisation, 
+determine energy criteria, check whether there are any tests available to verify the accuracy of energy measurement tools and to determine the status of these tests (exist : Yes/No, in development: Yes/No, in production : Yes/No)
 
 ## 2. Detailed Tests
 
@@ -63,8 +75,17 @@ Links to repositories containing tests in that category
 Questions to structure the discussion:
 
 - Question 1  
-- Question 2  
+  - What are the relevant metrics for energy ?
+
+- Question 2
+  - Do we have tools to collect them, what might we be missing, what is the current status of these tools ?
+
 - Question 3  
+  - Are there any tests to check energy measurement tools—calibration standards ?
+
+- Alternative questions
+  - Is there a way that IA could help us to treat energy consumption issues ?
+  - Quantum computing might be, could be or not an help to check or mesure energy crieria detection ?
 
 ## 4. Discussion Notes
 
