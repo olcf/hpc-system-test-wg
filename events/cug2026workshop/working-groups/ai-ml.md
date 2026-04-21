@@ -62,9 +62,9 @@ Links to repositories containing tests in that category
 
 Questions to structure the discussion:
 
-- Question 1  
-- Question 2  
-- Question 3  
+- What does "testing" AI/ML frameworks look like? Full static data-intensive models (e.g., OLCF-6 FORGE), micro transformer models, CCL microbenchmarks, something else?
+- In a fast-moving AI landscape that changes by the hour, how can we try to implement regression testing (e.g., relatively static known-good workload)?
+- How can we be handling correctness checking in testing?
 
 ## 4. Discussion Notes
 
