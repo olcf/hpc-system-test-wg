@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # HPCTestathon 2026 – Working Group Notes
 
 This repository contains the working material produced during **HPCTestathon 2026**, a one-day HPC System Testing workshop held in conjunction with **CUG 2026**.
@@ -8,7 +6,6 @@ The content of this repository reflects **community-driven discussions and recom
 
 ## Purpose of this Repository
 
-The goal of this repository is to:
 - **Collect and preserve working-group notes**, participant recommendations, and practical observations about HPC system testing.
 - Provide a **public, reusable reference** for the HPC System Test community by building upon and extending the test inventories, recommendations, and observations identified during HPCTestathon 2024.
 
@@ -28,19 +25,19 @@ Each working group has its own Markdown file, following a common template:
 ```
 
 Each document typically includes:
-- Scope of the testing area
-- Test list (from 2024) to be refined/extanded
-- Keys comments, recommendations and questions raised during the 2024 Testathon workshop
-- A set of guiding questions for HPCTestathon 2026 discussions
-- Summary of discussions, observations 
-- recommendations and key Takeawas
-- Open questions and proposed next steps
+- Scope and objective of the testing area
+- Existing test list (from 2024) to be refined/extanded in detailed test section
+- Guiding Questions for HPCTestathon 2026 discussions
+- Discussion Notes (Keys comments, observations, Tools / methodologies mentioned, **Summary of discussions** etc.)
+- Recommendations
+- Key Takeaways 
 
-## How This Repository Is Used During the Workshop
+## During the afternoon session of the Workshop
 
 - Participants are split into working groups by testing theme.
-- A designated scribe captures notes live into the corresponding Markdown file. (There can be more than one of us)
-- Groups refine content during the session to make notes clear, actionable, and reusable.
+- Each group with is **group leader** designates one or more **scribes** (the leader can also take this role) to capture notes live in the corresponding Markdown file.  
+  - To facilitate collaboration, tools such as https://hackmd.io/ can be used so everyone can contribute to the **live notes**, especially as discussions evolve or participants move between groups., then the final version must be copied into the Markdown file (worksheet)
+- Groups are encouraged to continuously refine their notes to keep them clear, actionable, and reusable.
 
 At the end of the workshop, these documents represent the **primary tangible outcome** of the event.
 
@@ -55,6 +52,13 @@ After HPCTestathon 2026, this repository will remain open and accessible to:
 - Keep content concise and factual
 - Focus on operational experience and practical insights
 - Prefer Markdown formatting for clarity
+
+## Suggested Timeline
+
+- 10 min: Review existing content (repo and insight from 2024)
+- 80 min: Discussion
+- 20 min: Define recommendations
+- 10 min: Prepare wrap-up
 
 ## Related Resources
 
