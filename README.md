@@ -8,6 +8,8 @@ This working group is a new effort started as a result of a Birds-of-a-Feather s
 
 ## Events
 
+- [HPCTESTS 2026: 4th International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2026) at SC26
+
 - [HPC System Testing: 2026 HPC Test Workshop](https://olcf.github.io/hpc-system-test-wg/events/cug2026workshop) at Cray User Group (CUG) 2026
 
 - [HPCTESTS 2025: 3rd International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2025) at SC25
