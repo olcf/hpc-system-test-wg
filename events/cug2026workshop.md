@@ -53,9 +53,8 @@ The goal of the morning sessions is to **share lessons learned, challenges, and 
 
 |Time|Speaker|Title|Short description|
 |---|---|---|---|
-| 11:30 – 11:45 | TBD |  |  |
-| 11:45 – 12:00 | Paul Ferrel, Lena Lopatina, Shivam Mehta (LANL) | Continuous Performance Validation at LANL: Integrating Hardware, Software, and Application‑Level Testing | We will describe how LANL’s continuous testing framework combines automated job‑submission (via Pavilion), post‑DST validation, and CI‑driven workflows to monitor the health of HPC systems at every level—from hardware metrics to
- application benchmarks (IOR, HPCG, VPIC, etc.). By turning raw performance plots into actionable node‑by‑node tables, we demonstrate that ongoing, systematic testing is essential for catching degradation before it impacts scientific productivity |
+| 11:30 – 11:45 | Jenett Tillotson (UCAR) | Keeping a 20TF Slingshot Machine Performant | We will present an Application Workload Test (AWT) and a low-level MPI Slingshot test (pray4us) we use to attempt to track down Slingshot issues before returning from outages |
+| 11:45 – 12:00 | Paul Ferrel, Lena Lopatina, Shivam Mehta (LANL) | Continuous Performance Validation at LANL: Integrating Hardware, Software, and Application‑Level Testing | We will describe how LANL’s continuous testing framework combines automated job‑submission (via Pavilion), post‑DST validation, and CI‑driven workflows to monitor the health of HPC systems at every level—from hardware metrics to application benchmarks (IOR, HPCG, VPIC, etc.). By turning raw performance plots into actionable node‑by‑node tables, we demonstrate that ongoing, systematic testing is essential for catching degradation before it impacts scientific productivity |
 | 12:00 – 12:15 |  Bhupesh Kumar (AMD) | Best practices for prolog/epilog in AMD HPC GPU batch systems | We will discuss common practices throughout Tier 1 AMD/HPC GPU systems as for addressing system state, memory fragmentation, GPU health/performance and RAS metrics. We will briefly cover RVS, a low level performance benchmarking tool used in such flows. |
 | 12:15 – 12:30 | TBD |  |  |
 
@@ -75,17 +74,13 @@ Discussions will be guided by a small, common set of questions, defined in advan
 
 **17:00 - 17:30: Conclusions and Results**
 
-## Connect with the HPC System Test Community
+## Connect with the CUG Community
 
-This workshop is organized as part of the **HPC System Test Working Group**.  
-Participants are encouraged to join the community Slack workspace to continue discussions beyond the event.
+Participants are encouraged to join the community Slack workspace to continue discussions beyond the event : 
+  - General: CrayUserGroup
+    - Canal: #cug2026_nice
 
 ## Workshop Registration
 
 * Event is in-person only
 * Participation is limited to 40 individuals
-* Registration details to be announced
-
-## HPCTestathon 2026 Organizing Committee
-
-*TBD*
