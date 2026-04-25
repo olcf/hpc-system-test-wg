@@ -112,8 +112,9 @@ Capture key points raised during the discussion:
 
 - **Challenges:** 
   - From and sys admin or support team point of view : have access to all measures :  cdu, switch, ssd, filesystem, cooloing ...
-  - Accuracy of measure to diagnosis
+  - Accuracy of measure to diagnosis. For example the dsitribution of jobs, apps can be very different ; the workload is not stable 
   - The granularity is one a point we have to deal with
+  - 
   
 - **Differences between sites:** Users can or cannot have acces to config file to cap the power or the frequency
 - 
