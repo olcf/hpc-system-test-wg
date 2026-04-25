@@ -8,7 +8,7 @@ for helath reason capturing throthing
 
 **Participants:**
 - Cloirec (Cines)
-- Name (Institution)
+- Wael Elwasif [ORNL]
 - ...
 
 *Suggested Timeline*
