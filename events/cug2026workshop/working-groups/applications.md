@@ -62,9 +62,9 @@ Links to repositories containing tests in that category
 
 Questions to structure the discussion:
 
-- Question 1  
-- Question 2  
-- Question 3  
+- How do you currently gather application tests from your user community?  
+- Do you find that these tests are difficult to maintain? 
+- How do you engage with the vendor on support for these tests?  
 
 ## 4. Discussion Notes
 
