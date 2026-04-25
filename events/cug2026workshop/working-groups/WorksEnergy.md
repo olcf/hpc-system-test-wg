@@ -7,9 +7,11 @@ for helath reason capturing throthing
 **Team name:** Energy
 
 **Participants:**
-- Cloirec (Cines)
+
 - Wael Elwasif [ORNL]
-- ...
+- Markus Mickael Muller [LRZ]
+- Azita Sadri [HPE]
+- Mathieu Cloirec (Cines)
 
 *Suggested Timeline*
 - 10 min: Review existing content (repo and insight from 2024)
@@ -78,9 +80,7 @@ Questions to structure the discussion:
 
 - Question 1  
   - What are the relevant metrics for energy ?
-  Depend of the sensors we have
-  Joules, watt, flops/watt, temperature, 
-
+  Depend of the sensors we have Joules, watt, flops/watt, temperature, 
 
 - Question 2
   - Do we have tools to collect them, what might we be missing, what is the current status of these tools ?
@@ -98,23 +98,25 @@ Questions to structure the discussion:
 Capture key points raised during the discussion:
 
 - **Observations:** 
-  - User are not really interestinng with energy mesure 
+  - User are not really interesting with energy mesure 
   - Different levels :
     - HPC center, : cdu cabinet, rack, cooling
     - Admin level : node, switch, ...
     - User or support level
   - For node health reason capturing throthing is very important
-  - how to choose the interval when capturing value or measuring
-    - interval size depend of sensors and device we monitor
-    - how to choose interval size function of amoutn of data produced    
+  - How to choose the interval when capturing value or measuring
+    - interval size depends of sensors and device we monitor
+    - how to choose interval size function of amount of data produced    
   - tools : user level (rocm-smi, pm_counters, admin level (hpcm, cray_pm), HPC center level
   - accuracy of measure depends of number of component implied  
 
 - **Challenges:** 
   - From and sys admin or support team point of view : have access to all measures :  cdu, switch, ssd, filesystem, cooloing ...
   - Accuracy of measure to diagnosis
+  - The granularity is one a point we have to deal with
   
 - **Differences between sites:** Users can or cannot have acces to config file to cap the power or the frequency
+- 
 - **Tools / methodologies mentioned:**  
 
 ## 5. Recommendations
