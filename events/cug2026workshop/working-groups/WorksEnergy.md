@@ -1,5 +1,3 @@
-for helath reason capturing throthing
-
 # Testathon 2026 – Working Group Notes 
 
 **Theme:** Energy Measurement and Energy-Related Testing
