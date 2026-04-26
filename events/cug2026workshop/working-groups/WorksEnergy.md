@@ -11,7 +11,7 @@ for helath reason capturing throthing
 - Wael Elwasif [ORNL]
 - Markus Mickael Muller [LRZ]
 - Azita Sadri [HPE]
-- Mathieu Cloirec (Cines)
+- Mathieu Cloirec [Cines]
 
 *Suggested Timeline*
 - 10 min: Review existing content (repo and insight from 2024)
@@ -108,15 +108,16 @@ Capture key points raised during the discussion:
     - interval size depends of sensors and device we monitor
     - how to choose interval size function of amount of data produced    
   - tools : user level (rocm-smi, pm_counters, admin level (hpcm, cray_pm), HPC center level
-  - accuracy of measure depends of number of component implied  
+  - accuracy of measure depends of number of components implied  
 
 - **Challenges:** 
-  - From and sys admin or support team point of view : have access to all measures :  cdu, switch, ssd, filesystem, cooloing ...
+  - From and sys admin or support team point of view : have access to all measures :  CDU, switch, ssd, filesystem, cooling ...
   - Accuracy of measure to diagnosis. For example the dsitribution of jobs, apps can be very different ; the workload is not stable 
   - The granularity is one a point we have to deal with
-  - 
+
   
-- **Differences between sites:** Users can or cannot have acces to config file to cap the power or the frequency
+- **Differences between sites:**
+  - Users can or cannot have acces to config file to cap the power or the frequency
 - 
 - **Tools / methodologies mentioned:**  
 
@@ -125,9 +126,9 @@ Capture key points raised during the discussion:
 Summarize practical recommendations emerging from the discussion:
 
 - Recommendation 1 
- choose suite of different tests (mini-apps, syntthetics, real apps)
+  - Choose suite of different tests (mini-apps, synthetics, real applications)
 - Recommendation 2
-- Find a way to have acces to all collected data.
+  - Find a way to have acces to all collected data.
 
 
 ## 6. Key Takeaways (3–5 bullets max)
