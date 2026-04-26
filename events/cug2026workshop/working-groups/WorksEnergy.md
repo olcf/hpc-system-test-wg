@@ -80,7 +80,7 @@ Questions to structure the discussion:
 
 - Question 1  
   - What are the relevant metrics for energy ?
-  Depend of the sensors we have Joules, watt, flops/watt, temperature, 
+    It depends on which sensors are available -> Joules, watt, flops/watt, temperature, 
 
 - Question 2
   - Do we have tools to collect them, what might we be missing, what is the current status of these tools ?
