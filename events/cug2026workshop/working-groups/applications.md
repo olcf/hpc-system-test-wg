@@ -2,11 +2,16 @@
 
 **Theme:** Applications
 
-**Team name:** [be creative]
+**Team name:** Siesta All the Time
 
 **Participants:**
-- Verónica G. Melesse Vergara (Oak Ridge Naational Laboratory)
-- Name (Institution)
+- Verónica (ORNL)
+- Jesse (ORNL)
+- Mathieu (AMD)
+- Victor (CSCS)
+- Dustin (ORNL)
+- Juan (EPCC)
+- Asa (ORNL)
 
 *Suggested Timeline*
 - 10 min: Review existing content (repo and insight from 2024)
@@ -43,8 +48,8 @@ https://drive.google.com/drive/folders/1yRejWr6dwbB6a2WHUfEEdGUBWfOhaqei
 ## 1. Scope and Objectives
 
 Provide a brief overview of this testing area:
-- **Description of the category**
-- **Groupe focus/Session objective:** What is the main focus/goal of this group?  *(e.g., Clarifying what “node health” means in practice and how it is validated, this can be refined during the session)*
+- **Description of the category**: Application-focused testing
+- **Group focus/Session objective:** This group will focus on regression and acceptance testing done utilizing real applications and representative test cases.
 
 ## 2. Detailed Tests
 
@@ -71,20 +76,79 @@ Questions to structure the discussion:
 Capture key points raised during the discussion:
 
 - **Observations:**  
+    - Vendors more comfortable with public benchmarks and applications. 
+    - Issues with compilers if it is not a current compiler. 
+    - If applications are older, they will roll off. If there is a requirement to erase them, the vendor removes it. Vendor can ask author to keep them for longer.
+    - 
 - **Challenges:**  
+    - How do you do knowledge management at the vendor?
+        - Good scripting helps more than documentation in some cases
+        - Confluence page, internal Gitlab, external Github for a limited set of tests
+    - Turnover of application specialists
+    - Sharing is a challenge
+        - Even internally, knowledge about existing tests has to be transferred 
+    - How many versions of a given application do you keep?
+        - CSCS: provide two versions (e.g., LAMMPS)
+        - EPCC: IO tests are available but not run frequently
+        - ORNL: IO benchmarks weren't sufficient, so we had built an IO harness using real applications
+    - Testing slingshot is very difficult due to automatic rerouting 
+    - Profiling applications to detect issues
+        - Performance hit adding profiling
+    - How do you identify the best options to compile a given code?
+    - Do you have experts assigned to specific domains?
+        - CSCS had but moved to a different model
+    - Is there value in developing application proxies?
+    - Do you share configurations externally?
+        - EPCC: repository with recipes for UK
+        - All: Point users to how to build an application rather than build applications 
+        - CSCS: invest in containers and user environments (squashfs that is mounted every time you run a job)
+        - CSCS: enable CI/CD
+    - Procurements include a list of contractual applications that are supported
+        - CSCS/ORNL: no contractual list of apps that have to be supported as workloads evolved
+        - EPCC: support a set of applications for the life of the system. Smaller set for procurements
+            - Asked CSC for CP2k test cases
 - **Differences between sites:**  
+    - CSCS: average 1500 users with average of one application per user
+    - EPCC: have more applications than microbenchmarks
+    - AMD: partners with integrators for IO, spends most of the time on the real applications than synthetic
+    - AMD: use the right tool for the job. Needs hands-on direct access to the versions of dependencies vs. relying on a tool like Spack
+        - KISS: keep it simple, stupid
+    - In one case, ran all possible combinations of a build to find the right combination of flags for your system
+    - Spack brings in a lot of dependencies by default, though this is configurable
+    - OFI and UCX performance differences. Complex to find the same recipe that is best
+    - Compiler, libraries, test is targeting specific hardware
+    - Users get a small allocation first and then apply for time
+        - What if we offered more allocation to allow for "by default" instrumentation?
+        - Allocations may be reduced, if performance improvements are offered to the user teams
+    - CSCS: requires having run on a CSCS system
+    - ORNL: requires showing that the code can run on AMD GPUs but not necessarily Frontier
+    - EPCC: applications for a code that is known to run in the hardware you have, then it is ok
+    - What happens if users are not using the full node?
+        - CSCS: monitored and reported
+        - EPCC/ORNL: do not automatically track as it is up to the user
+    - What is the return of investment?
+    - What levels of user support?
+        - Some centers focus on all levels of users
+        - Some centers focus on users that have experience on the system
 - **Tools / methodologies mentioned:**  
+    - Reframe
+    - OLCF Test Harness
+    - LDMS
+    - Spack, CMake, EasyBuild
 
 ## 5. Recommendations
 
 Summarize practical recommendations emerging from the discussion:
 
-- Recommendation 1 [target (who?), effort ( Low/Med/High), Impact]
-- Recommendation 2  
+- Implement knowledge management and transfer system 
+- Collect pointers to optimized configurations and test cases for commonly used applications
 
 
 ## 6. Key Takeaways (3–5 bullets max)
 
--
--
--
+- Application tests are hard to maintain over time with some centers having dedicated support/application teams while others do not
+- Optimized configurations are available but not easily findable/shareable
+- Vendors interested in continuing to run applications from procurements with preference to open source ones
+- Enabling users to build optimized applications is key 
+- Ensuring users are fully utilizing nodes came up as a concern
+- Knowledge management also came up as a concern
