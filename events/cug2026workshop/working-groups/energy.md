@@ -116,11 +116,6 @@ but how to have acces to all those data ?
   - Accuracy of measure to diagnosis. For example the distribution of jobs, apps can be very different ; the workload is not regular and identical day to day 
   - The granularity is one a point we have to deal with
 
-  
-- **Differences between sites:**
-- 
-- **Tools / methodologies mentioned:**  
-
 ## 5. Recommendations
 
 - Recommendation 1 
