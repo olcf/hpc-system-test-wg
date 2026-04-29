@@ -56,7 +56,7 @@ Finally, it addresses possible correlations or links between the tests studied i
 
 - **Groupe focus/Session objective:** 
 
-The main focus of this group is to find energy tests or tests related to energy caracterisation, 
+The main focus of this group is to find energy tests or tests related to energy characterisation, 
 determine energy criteria, check whether there are any tests available to verify the accuracy of energy measurement tools and to determine the status of these tests (exist : Yes/No, in development: Yes/No, in production : Yes/No)
 
 ## 2. Detailed Tests
@@ -99,12 +99,12 @@ but how to have acces to all those data ?
 
 
 - **Observations:** 
-  - User are not really interesting with energy mesure but user support and sys-admin a lot as HPC center as a whole
+  - User are not really interested with energy measure but user support and sys-admin a lot as HPC center as a whole
   - Different levels :
     - HPC center, : cdu cabinet, rack, cooling
     - Admin level : node, switch, ...
     - User or support level
-  - For node health reason capturing throthing is very important
+  - For node health reason capturing throttling is very important
   - How to choose the interval when capturing value or measuring
     - interval size depends of sensors and device we monitor
     - how to choose interval size function of amount of data produced    
@@ -112,7 +112,7 @@ but how to have acces to all those data ?
   - accuracy of measure depends of number of components implied  
 
 - **Challenges:** 
-  - From sys admin or support team point of view : have access to all measures :  CDU, switch, ssd, filesystem, cooling ...
+  - From a sys admin or support team point of view : have access to all measures :  CDU, switch, ssd, filesystem, cooling ...
   - Accuracy of measure to diagnosis. For example the distribution of jobs, apps can be very different ; the workload is not regular and identical day to day 
   - The granularity is one a point we have to deal with
 
