@@ -9,6 +9,7 @@
 - Wael Elwasif [ORNL]
 - Markus Mickael Muller [LRZ]
 - Azita Sadri [HPE]
+- Jeff Hanson [HPE]
 - Mathieu Cloirec [Cines]
 
 *Suggested Timeline*
