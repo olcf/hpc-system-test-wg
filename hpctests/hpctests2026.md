@@ -1,7 +1,5 @@
 # HPCTESTS 2026
 
-This page is still under construction, check back soon for updates including call for papers and schedule...
-
 ## 4th International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software
 
 [https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2026](https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2026)
@@ -86,7 +84,6 @@ Submissions will be accepted through the SC26 Submissions site: [https://submiss
 * Dan Dietz (Oak Ridge National Laboratory, USA)
 * Jens Domke (RIKEN Center for Computational Science, Japan)
 * Pascal Jahan Elahi (Pawsey Supercomputing Research Centre, Australia)
-* Ann Gentile (Sandia National Laboratories, USA)
 * Lisa Gerhardt (Lawrence Berkeley National Laboratory, USA)
 * Bilel Hadri (King Abdullah University of Science and Technology, Saudi Arabia)
 * Nick Hagerty (Oak Ridge National Laboratory, USA)
