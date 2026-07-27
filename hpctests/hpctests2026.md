@@ -50,7 +50,7 @@ Submissions will be accepted through the SC26 Submissions site: [https://submiss
 
 ### Workshop Deadlines
 
-* Paper Submission Deadline: **August 3, 2026 AoE (UTC-12)**
+* Paper Submission Deadline: ~~**August 3, 2026 AoE (UTC-12)**~~ **August 10, 2026 AoE (UTC-12)**
 * Author Notification: September 4, 2026 AoE
 * Camera-ready: September 25, 2026 AoE
 
@@ -81,7 +81,6 @@ Submissions will be accepted through the SC26 Submissions site: [https://submiss
 * Jay Blair (Proctor & Gamble Company, ASRC Federal, USA)
 * Stephanie Brink (Lawrence Livermore National Laboratory, USA)
 * Brandon Cook (Lawrence Berkeley National Laboratory, USA)
-* Dan Dietz (Oak Ridge National Laboratory, USA)
 * Jens Domke (RIKEN Center for Computational Science, Japan)
 * Pascal Jahan Elahi (Pawsey Supercomputing Research Centre, Australia)
 * Lisa Gerhardt (Lawrence Berkeley National Laboratory, USA)
@@ -98,8 +97,6 @@ Submissions will be accepted through the SC26 Submissions site: [https://submiss
 * James Lin (Shanghai Jiao Tong University, China)
 * Amiya K. Maji (Purdue University, USA)
 * Alessandro Marani (CINECA, Italy)
-* Verónica G. Melesse Vergara (Oak Ridge National Laboratory, USA)
 * Maria del Carmen Ruiz Varela (Advanced Micro Devices, Inc., USA)
-* Zachary Tschirhart (Sustainment, USA)
 * Andy Warner (Hewlett Packard Enterprise, USA)
 
