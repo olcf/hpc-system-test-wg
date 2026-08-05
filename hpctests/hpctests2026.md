@@ -44,7 +44,10 @@ Topics of interest include, but are not limited to:
 ### Paper Submissions
 
 The workshop will publish its proceedings with the SC26 conference. Authors must follow the formatting guidelines from SC26 Papers which are available [here](https://sc26.supercomputing.org/program/papers/). Submissions must be at least 4 two-column pages (U.S. letter – 8.5 inches x 11 inches), excluding the bibliography, using the IEEE proceedings template. Latex users, please use the “conference” mode (use of the “review” option is recommended but not required).
+HPCTESTS utilizes a single-blind review.
 Please also note the reproducibility initiative, which we follow for HPCTESTS.
+Authors may submit an AD Appendix through the paper submission text field, which will be evaluated alongside the paper submission.
+AE is evaluated only for accepted papers, and only the "Artifact Evaluation-Functional" badge is offered.
 
 Submissions will be accepted through the SC26 Submissions site: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/). After you create an account, you will be able to submit to the HPCTESTS 2026 form.
 
